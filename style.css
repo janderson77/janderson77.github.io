@@ -60,3 +60,7 @@ span {
 	font-family: "yeon sung";
 	font-size: 2.5rem;
 }
+
+col-lg-12 {
+	flex-wrap:wrap;
+}
